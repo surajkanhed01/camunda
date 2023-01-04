@@ -1,0 +1,1 @@
+{"suites":[{"id":"[engine:junit-jupiter]/[class:com.demo.ApplicationTests]","name":"com.demo.ApplicationTests","runs":[{"id":"[engine:junit-jupiter]/[class:com.demo.ApplicationTests]/[method:contextLoads()]","name":"contextLoads","events":[]}]}],"models":[]}

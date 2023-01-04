@@ -1,0 +1,18 @@
+{
+  "components": [
+    {
+      "text": "Welcome",
+      "type": "text",
+      "id": "Field_00y7wk2"
+    }
+  ],
+  "type": "default",
+  "id": "Form_tweet",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

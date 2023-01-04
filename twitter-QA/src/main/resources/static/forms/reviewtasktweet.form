@@ -1,0 +1,31 @@
+{
+  "components": [
+    {
+      "label": "name",
+      "type": "textfield",
+      "id": "Field_1jpee7l",
+      "key": "empName"
+    },
+    {
+      "label": "age",
+      "type": "textfield",
+      "id": "Field_0p6yi46",
+      "key": "empAge"
+    },
+    {
+      "label": "Approved?",
+      "type": "checkbox",
+      "id": "Field_0ydm4kg",
+      "key": "approved"
+    }
+  ],
+  "type": "default",
+  "id": "Form_reviewtweet",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
